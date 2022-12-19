@@ -12,34 +12,34 @@ Las diferentes representaciones hacen referencia a tareas realizadas para las as
 DASHBOARDS EXCEL
 ## Dashboards:
 
-![Dashboard 1](DashboardImagenes/E1.png)
-![Dashboard 2](DashboardImagenes/E2.png)
+![Dashboard 1](DASHBOARDS IMÁGENES/E1.png)
+![Dashboard 2](DASHBOARDS IMÁGENES/E2.png)
 
 ## Microsoft Power BI: Análisis sobre las características de los Pokémon
 ### Carpeta
 DASHBOARDS POWER BI
 ## Dashboards:
 
-![Dashboard 1](DashboardImagenes/PB1.png)
-![Dashboard 2](DashboardImagenes/PB2.png)
-![Dashboard 2](DashboardImagenes/PB3.png)
+![Dashboard 1](DASHBOARDS IMÁGENES/PB1.png)
+![Dashboard 2](DASHBOARDS IMÁGENES/PB2.png)
+![Dashboard 2](DASHBOARDS IMÁGENES/PB3.png)
 
 ## TABLEAU: TikTok: vídeos populares, autores y estadísticas
 ### Carpeta
 DASHBOARDS TABLEAU
 ## Dashboards:
 
-![Dashboard 1](DashboardImagenes/TA1.png)
-![Dashboard 2](DashboardImagenes/TA2.png)
-![Dashboard 2](DashboardImagenes/TA3.png)
+![Dashboard 1](DASHBOARDS IMÁGENES/TA1.png)
+![Dashboard 2](DASHBOARDS IMÁGENES/TA2.png)
+![Dashboard 2](DASHBOARDS IMÁGENES/TA3.png)
 
 ## APACHE SUPERSET: Práctica colaborativa con Pablo Martinez González
 ### Carpeta
 DASHBOARDS SUPERSET
 ## Dashboards:
 
-![Dashboard 1](DashboardImagenes/S1.png)
-![Dashboard 2](DashboardImagenes/S2.png)
-![Dashboard 2](DashboardImagenes/S3.png)
-![Dashboard 2](DashboardImagenes/S4.png)
-![Dashboard 2](DashboardImagenes/S5.png)
+![Dashboard 1](DASHBOARDS IMÁGENES/S1.png)
+![Dashboard 2](DASHBOARDS IMÁGENES/S2.png)
+![Dashboard 2](DASHBOARDS IMÁGENES/S3.png)
+![Dashboard 2](DASHBOARDS IMÁGENES/S4.png)
+![Dashboard 2](DASHBOARDS IMÁGENES/S5.png)
