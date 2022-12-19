@@ -41,3 +41,5 @@ DASHBOARDS SUPERSET
 ![Dashboard 1](DashboardImagenes/S1.png)
 ![Dashboard 2](DashboardImagenes/S2.png)
 ![Dashboard 2](DashboardImagenes/S3.png)
+![Dashboard 2](DashboardImagenes/S4.png)
+![Dashboard 2](DashboardImagenes/S5.png)
