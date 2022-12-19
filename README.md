@@ -20,18 +20,18 @@ DASHBOARDS EXCEL
 DASHBOARDS POWER BI
 ## Dashboards:
 
-![Dashboard 1](DashboardImagenes/P1.png)
-![Dashboard 2](DashboardImagenes/P2.png)
-![Dashboard 2](DashboardImagenes/P3.png)
+![Dashboard 1](DashboardImagenes/PB1.png)
+![Dashboard 2](DashboardImagenes/PB2.png)
+![Dashboard 2](DashboardImagenes/PB3.png)
 
 ## TABLEAU: TikTok: vídeos populares, autores y estadísticas
 ### Carpeta
 DASHBOARDS TABLEAU
 ## Dashboards:
 
-![Dashboard 1](DashboardImagenes/T1.png)
-![Dashboard 2](DashboardImagenes/T2.png)
-![Dashboard 2](DashboardImagenes/T3.png)
+![Dashboard 1](DashboardImagenes/TA1.png)
+![Dashboard 2](DashboardImagenes/TA2.png)
+![Dashboard 2](DashboardImagenes/TA3.png)
 
 ## APACHE SUPERSET: Práctica colaborativa con Pablo Martinez González
 ### Carpeta
