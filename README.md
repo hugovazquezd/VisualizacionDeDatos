@@ -13,7 +13,7 @@ DASHBOARDS EXCEL
 ## Dashboards:
 
 ![Dashboard 1](FOTOS/E1.png)
-![Dashboard 2](FOTOS IMÁGENES/E2.png)
+![Dashboard 2](FOTOS/E2.png)
 
 ## Microsoft Power BI: Análisis sobre las características de los Pokémon
 ### Carpeta
