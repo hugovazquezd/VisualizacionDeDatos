@@ -12,7 +12,7 @@ Las diferentes representaciones hacen referencia a tareas realizadas para las as
 DASHBOARDS EXCEL
 ## Dashboards:
 
-![Dashboard 1](DASHBOARDS IMÁGENES/E1.png)
+![Dashboard 1](DASHBOARDS\ IMÁGENES/E1.png)
 ![Dashboard 2](DASHBOARDS IMÁGENES/E2.png)
 
 ## Microsoft Power BI: Análisis sobre las características de los Pokémon
